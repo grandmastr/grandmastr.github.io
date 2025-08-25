@@ -1,13 +1,5 @@
-### Hi there! 👋
+I'm [Israel](https://linkedin.com/in/israel-akintunde), a product and design engineer based in Nigeria.
 
-I'm **Israel**, a passionate developer based in Nigeria.
+I build interfaces and experiences that don't just look pretty, but actually work—fully functional at 60fps and accessible to everyone.
 
-I love building amazing web applications and turning creative ideas into functional, user-friendly interfaces that make a difference.
-
-Outside of coding, you'll find me watching anime (One Piece is absolutely the best! 🏴‍☠️), exploring new technologies, or working on exciting side projects.
-
-## Fun Facts:
-
-• 🍖 One Piece has been my favorite anime for years - still waiting for Luffy to become Pirate King!
-• 🌍 I'm based in Nigeria and love connecting with developers from around the world.
-• ⚡ I believe the best code is written when you're passionate about what you're building.
+Outside of code, I'm either in the gym or watching anime (One Piece is my favorite).
